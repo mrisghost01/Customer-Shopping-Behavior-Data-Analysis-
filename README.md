@@ -36,7 +36,6 @@ customer behavior Project/
 ## Databases
 * PostgreSQL
 * MySQL
-* Microsoft SQL Server
 
 ## Visualization
 * Power BI
@@ -173,7 +172,7 @@ The dashboard provides visual insights including:
 # How to Run the Project
 ## Step 1: Install Required Libraries
 ```bash
-pip install pandas sqlalchemy psycopg2-binary pymysql pyodbc matplotlib seaborn
+pip install pandas sqlalchemy psycopg2-binary pyodbc 
 ```
 ## Step 2: Open Jupyter Notebook
 ```bash
